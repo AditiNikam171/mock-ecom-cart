@@ -107,5 +107,15 @@ If you'd like, I can:
 - Add automated seeding on server start (optional)
 - Add a small README section that documents the frontend component structure
 
-Happy hacking!
+
+Below are the Screenshots of the Website-
+
+![Home Page](<screenshot/Screenshot 2025-10-29 202003.png>)
+![Cart Icon Changes](<screenshot/Screenshot 2025-10-29 202020.png>)
+![Cart Page](<screenshot/Screenshot 2025-10-29 202035.png>)
+![Order Summary](<screenshot/Screenshot 2025-10-29 202105.png>)
+![Checkout](<screenshot/Screenshot 2025-10-29 202134.png>)
+![Order Receipt](<screenshot/Screenshot 2025-10-29 202146.png>)
+
+
   
