@@ -50,6 +50,7 @@ app.get("/api/seed", async (req, res) => {
   }
 });
 
+
 /**
  * GET /api/products
  */
@@ -68,6 +69,8 @@ app.get("/api/products", async (req, res) => {
  * body: { productId, qty }
  */
 app.post("/api/cart", async (req, res) => {
+  console.log("<<<<<<<>>>>>");
+  
   try {
     const { productId, qty = 1 } = req.body;
     if (!productId) return res.status(400).json({ error: "productId required" });
